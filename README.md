@@ -19,7 +19,7 @@
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Photoshop | After Effects | Premiere
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanfxx&include_all_commits=true&layout=compact&count_private=true&text_color=daf7dc&bg_color=151515)](https://github.com/Alanfxx/alanfxx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanfxx&include_all_commits=true&count_private=true&text_color=daf7dc&bg_color=151515)](https://github.com/Alanfxx/alanfxx)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
