@@ -20,10 +20,3 @@
 - 🖥 &nbsp; Photoshop | After Effects | Premiere
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanfxx&layout=compact&include_all_commits=true&count_private=true&text_color=daf7dc&bg_color=151515)](https://github.com/Alanfxx/alanfxx)
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="left">
-&nbsp; <a href="mailto:j.alands2@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
-<!-- ⭐️ From [devSouvik](https://github.com/devSouvik) -->
