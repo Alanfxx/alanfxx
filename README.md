@@ -13,9 +13,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; NodeJS | Golang | Dart | Java | C | C#
-- 🌐 &nbsp; Flutter | HTML | CSS | JavaScript | ReactJS | VueJS
-- 🛢 &nbsp; MySQL | Firebase | Xampp | Postgresql | MariaDB
+- 💻 &nbsp; Dart | TypeScript | C# | NodeJS | Java | Golang
+- 🌐 &nbsp; Flutter | VueJS | .Net Core | JavaScript | HTML | CSS 
+- 🛢 &nbsp; MySQL | Firebase | Postgresql | MariaDB
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Photoshop | After Effects | Premiere
 
