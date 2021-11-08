@@ -13,8 +13,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; ASP.NET Core | C# | TypeScript | NodeJS | Java | Golang
-- 🌐 &nbsp; Flutter | Dart | VueJS | Angular | JavaScript | HTML | CSS 
+- 💻 &nbsp; ASP.NET Core | C# | NodeJS | Java | Golang
+- 🌐 &nbsp; Flutter | React |  VueJS | Angular | Dart | TypeScript
 - 🛢 &nbsp; MySQL | Firebase | Postgresql | MariaDB
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Photoshop | After Effects | Premiere
