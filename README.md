@@ -8,8 +8,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 NodeJS | ASP.NET Core | C# | Java | Golang
 - 🌐 React | Flutter | VueJS | Angular | Dart | TypeScript | JavaScript
+- 💻 NodeJS | ASP.NET Core | C# | Java | Golang
 - 🛢 MySQL | Firebase | Postgresql | MariaDB
 - 🔧 Git | Selenium | Sonarqube | Rabbitmq
 
