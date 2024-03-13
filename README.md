@@ -1,14 +1,13 @@
-<h2> Hey there! I'm Alan</h2>
+<h2> Hey! I'm Alan</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Information Systems and computer programming.
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 React | Flutter | VueJS | Angular | Dart | TypeScript | JavaScript
+- 🌐 React.js | Next.js | React Native | Flutter | VueJS | Angular | Dart | TypeScript | JavaScript
 - 💻 NodeJS | ASP.NET Core | C# | Java | Golang
 - 🛢 MySQL | Firebase | Postgresql | MariaDB
 - 🔧 Git | Selenium | Sonarqube | Rabbitmq
